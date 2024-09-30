@@ -1,4 +1,6 @@
 ## Hi there 👋
+ 🌱 I'm curretly learning the different commands from Github
+ ⚡ Fun fact: You should take a break after 52 minutes for 17 mintues 😄
 
 <!--
 **CatCoat564/CatCoat564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
